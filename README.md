@@ -48,7 +48,7 @@ I'm now moving into IT and cybersecurity, and I'm upfront about being entry-leve
 
 ## `>_ connect`
 
-- 💼 LinkedIn: [www.linkedin.com/in/coreygeiser]
+- 💼 LinkedIn: www.linkedin.com/in/coreygeiser
 - 🌐 Portfolio: [coreygeiser.com](https://coreygeiser.com)
 - 📧 Email: coreygeiser.contact@gmail.com
 
