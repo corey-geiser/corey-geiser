@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Steady in a Crisis_ Cyber Guardian" alt="Steady in a crisis. Built to prevent the next one. A giant robot stands over a city skyline, defending it under a green shield." width="100%">
+<img src="assets/banner.png" alt="Steady in a crisis. Built to prevent the next one. A giant robot stands over a city skyline, defending it under a green shield." width="100%">
 
 # Hi, I'm Corey
 
